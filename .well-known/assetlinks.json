@@ -6,20 +6,4 @@
     "sha256_cert_fingerprints":
     ["66:65:70:F0:B9:87:CE:D6:79:8A:13:68:8B:E6:39:39:01:94:CE:D7:77:78:7C:1C:BD:8A:FE:1C:5A:9E:C2:2E"]
   }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "web",
-    "site": "https://github.com"
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.gk.appordeeplinkdemo",
-    "sha256_cert_fingerprints":
-    ["66:65:70:F0:B9:87:CE:D6:79:8A:13:68:8B:E6:39:39:01:94:CE:D7:77:78:7C:1C:BD:8A:FE:1C:5A:9E:C2:2E"]
-  }
 }]
